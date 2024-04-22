@@ -19,7 +19,7 @@ def animate_ball():
             position = 0
             velocity = -velocity * 0.9
 
-        print("\n" * int(position) + "o")
+        print("\n" * int(position) + "Hello World")
 
         time.sleep(0.1)
 
